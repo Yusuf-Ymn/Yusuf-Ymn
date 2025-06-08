@@ -18,7 +18,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: y.yaman.edu@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yusuf-ymn](www.linkedin.com/in/yusuf-ymn)
+- 🔗 LinkedIn: www.linkedin.com/in/yusuf-ymn
 
 ---
 
