@@ -1,28 +1,38 @@
-#  Hi, I'm Yusuf Yaman
+# Hi, I'm Yusuf Yaman
 
- I'm a Computer Engineering student at **Eskişehir Osmangazi University** with a current GPA of **3.63**.  
- I'm passionate about continuous self-improvement, innovation, and developing technology that benefits society.
+Computer Engineering student at Eskişehir Osmangazi University (GPA: 3.64)  
+Interested in software development, intelligent systems, and performance-focused problem solving.
 
----
-
-##  Skills & Experience
-
--  **Programming Languages**  
-  Proficient in **Python**, **C**, **C++**, **C#**, with a strong foundation in **object-oriented design** and **Git workflows**.
-
--  **Artificial Intelligence**  
-  Currently a scholarship fellow at the **Yapay Zeka ve Teknoloji Akademisi** — exploring **Generative AI**, **prompt engineering**, and **entrepreneurship**.
+I enjoy working across different layers of software , from low level programming to data driven and AI supported applications , with a focus on building efficient and practical solutions.
 
 ---
 
-##  How to Reach Me
+## Skills
 
--  Email: y.yaman.edu@gmail.com  
--  LinkedIn: www.linkedin.com/in/yusuf-ymn
+**Programming Languages**  
+Proficient in **Python, C, C++, and C#**, with a strong foundation in **object oriented design** and **Git workflows**.
+
+**Core Interests**  
+Software development - System design - Optimization - AI & data driven systems
 
 ---
 
-##  Languages and Tools
+## Current Work
+
+### TÜBİTAK 1004 Research Scholar
+
+Working on intelligent traffic systems and dynamic route optimization. Contributing to graph based traffic modeling and learning based routing methods, along with backend and simulation tools for real world testing.
+
+---
+
+## How to Reach Me
+
+- Email: y.yaman.edu@gmail.com  
+- LinkedIn: www.linkedin.com/in/yusuf-ymn  
+
+---
+
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,4 +43,4 @@
 
 ---
 
-Thanks for visiting!  Let’s connect and build something impactful together.
+Thanks for visiting! Let’s connect and build something impactful together.
