@@ -1,7 +1,7 @@
 # Hi, I'm Yusuf Yaman
 
 Computer Engineering student at Eskişehir Osmangazi University (GPA: 3.64)  
-Interested in software development, intelligent systems, and performance-focused problem solving.
+Interested in software development, intelligent systems, and performance focused problem solving.
 
 I enjoy working across different layers of software , from low level programming to data driven and AI supported applications , with a focus on building efficient and practical solutions.
 
@@ -42,5 +42,3 @@ Working on intelligent traffic systems and dynamic route optimization. Contribut
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-Thanks for visiting! Let’s connect and build something impactful together.
